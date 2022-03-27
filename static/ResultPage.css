@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    font-size: 45px;
+
+}
+
+body{
+    border-style: double;
+    border-width: thin;
+    background-color: OldLace;
+    border-radius: 6px;
+    padding: 210px 210px
+}

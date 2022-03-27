@@ -1,0 +1,22 @@
+body{
+    border-style: double;
+    border-width: thin;
+    background-color: OldLace;
+    border-radius: 6px;
+    padding: 170px 170px
+}
+
+h2{
+    color: Dark;
+    text-align: justify;
+    font-size: 45px
+}
+
+p {
+    text-align: justify;
+}
+
+
+a {
+    text-align: center;
+}

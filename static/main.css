@@ -1,0 +1,40 @@
+h2{
+    color: Dark;
+    text-align: center;
+    font-size: 45px
+}
+
+input[type=text]{
+    color: DarkGray;
+    width: 20%;
+    padding: 2px 2px;
+    margin: 4px 0;
+    text-align: center;
+
+}
+
+form {
+    text-align: center;
+    width: 100%;
+}
+
+input[type=submit]{
+    color: Dark;
+    background-color: DarkSeaGreen;
+    border: none;
+    border-radius: 6px;
+    padding: 12px 12px
+}
+
+p {
+    text-align: center;
+}
+
+
+body{
+    border-style: double;
+    border-width: thin;
+    background-color: OldLace;
+    border-radius: 6px;
+
+}
