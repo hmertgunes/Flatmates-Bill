@@ -2,4 +2,4 @@
 
 I created this website while I was learning Flask.
 
-The website basically helps to split a bill between two flatmates.
+The website basically helps to split a bill in between two flatmates.
