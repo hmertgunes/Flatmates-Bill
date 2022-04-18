@@ -1,4 +1,4 @@
-# Project-2.1
+# Flatmates-Bill
 
 I created this website while I was learning Flask.
 
